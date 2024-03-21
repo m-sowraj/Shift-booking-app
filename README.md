@@ -11,10 +11,12 @@ This is a mobile application for managing shifts. Users can view their booked sh
 ## Installation
 
 1. Clone the repository:
+
 git clone https://github.com/m-sowraj/Shift-booking-app/
 
 2. Navigate to the project directory:
-cd my-shifts-app
+
+cd Shift-booking-app
 
 Install dependencies:
 
